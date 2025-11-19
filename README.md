@@ -71,7 +71,7 @@ I focus on **responsive design**, **high performance**, and **clean UI** that de
 
 ---
 
-## 🐍 3D Snake Contribution Animation
+## Contribution Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
