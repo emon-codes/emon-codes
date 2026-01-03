@@ -1,34 +1,39 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== HERO SECTION ===================== -->
 <h1 align="center">
-  Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35" />  
-  I'm <b>EMON AHMED RANA</b>
+  👋 Hi, I'm <b>EMON AHMED RANA</b>
 </h1>
 
-<h3 align="center">Frontend Developer | React & Tailwind Enthusiast</h3>
+<h3 align="center">
+  Frontend Developer • React Specialist • UI Focused
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Tailwind+CSS;Building+Modern+%26+High-Performance+Websites;Clean+UI+%7C+Responsive+Design;Welcome+to+my+GitHub+Profile!">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Tailwind+CSS;Building+Clean+%26+Scalable+Web+Apps;UI+Precision+%7C+Smooth+UX;Open+for+Opportunities" 
+  />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="85%" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🚀 I’m a **passionate Frontend Developer** focused on crafting  
-**fast, responsive, and visually appealing web applications**.
+I’m a **Frontend Developer** who builds **clean, fast, and scalable web interfaces**.  
+I focus on **modern UI**, **smooth user experience**, and **maintainable code**.
 
-💡 I love working with **modern UI**, smooth animations, and performance-optimized code.
+I enjoy transforming ideas into pixel-perfect interfaces using modern frontend tools.
 
-- 🌍 Based in **Bangladesh**
-- 🧠 Learning **Advanced React & UI Animation**
-- 🖥️ Portfolio: **https://emon-codes.github.io/portfolio/**
-- ✉️ Email: **emon9996a@gmail.com**
+- 🌍 Location: **Bangladesh**
+- 🧠 Currently learning: **Advanced React Patterns**
+- 💼 Portfolio: **https://emon-codes.github.io/portfolio/**
+- 📧 Email: **emon9996a@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Core Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,figma,wordpress,ubuntu,vscode&theme=dark" />
@@ -36,42 +41,42 @@
 
 ---
 
-## 🚀 What I Do Best
+## ⚙️ What I Focus On
 
-- ✅ Responsive Website Design  
-- ✅ React Single Page Applications  
-- ✅ Tailwind CSS Modern UI  
-- ✅ Clean & Maintainable Code  
-- ✅ Performance Optimization  
+- 🔹 Scalable Frontend Architecture  
+- 🔹 Responsive & Mobile-First Design  
+- 🔹 React SPA Development  
+- 🔹 Tailwind CSS Design Systems  
+- 🔹 Performance & Accessibility  
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://github.com/emon-codes" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/emon-ahmed-rana-8a3821255/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://www.facebook.com/emon77ear" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" />
-</a>
+  <a href="https://github.com/emon-codes">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/emon-ahmed-rana-8a3821255/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.facebook.com/emon77ear">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Overview
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=emon-codes&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emon-codes&layout=compact&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=emon-codes&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emon-codes&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Consistency
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=emon-codes&theme=tokyonight&hide_border=true" />
@@ -79,7 +84,7 @@
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Flow
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -87,20 +92,22 @@
 
 ---
 
-## 🏆 Profile Badges
+## 🏆 Highlights
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emon-codes&style=for-the-badge&color=0abde3" />
-  <img src="https://img.shields.io/github/followers/emon-codes?style=for-the-badge&color=10ac84" />
-  <img src="https://img.shields.io/github/stars/emon-codes?style=for-the-badge&color=feca57" />
+  <img src="https://komarev.com/ghpvc/?username=emon-codes&style=for-the-badge&color=38BDF8" />
+  <img src="https://img.shields.io/github/followers/emon-codes?style=for-the-badge&color=22C55E" />
+  <img src="https://img.shields.io/github/stars/emon-codes?style=for-the-badge&color=FACC15" />
 </p>
 
 ---
 
-## ✨ Fun Fact
+## 💬 Philosophy
 
-> “Good UI isn’t noticed — bad UI is remembered.”
+> **"Great UI is invisible. Great UX is unforgettable."**
 
 ---
 
-<h3 align="center">⭐ If you like my work, consider following me!</h3>
+<h3 align="center">
+  ⭐ Let’s build something meaningful together
+</h3>
