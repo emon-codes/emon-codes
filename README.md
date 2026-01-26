@@ -33,11 +33,7 @@
 
 ---
 
-## 🛠️ Tech Stack
 
- <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,figma,wordpress,ubuntu,vscode&theme=dark" />
-</p> 
 
 ---
 
