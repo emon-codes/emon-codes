@@ -5,15 +5,13 @@
 </h1>
 
 <h3 align="center">Frontend Developer | React, Next.js & Tailwind</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&gap=8&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Tailwind+CSS;Building+Modern+%26+High-Performance+Websites;Clean+UI+%7C+Responsive+Design;Welcome+to+my+GitHub+Profile!">
+</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,figma,wordpress,ubuntu,vscode&theme=dark" />
 </p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Tailwind+CSS;Building+Modern+%26+High-Performance+Websites;Clean+UI+%7C+Responsive+Design;Welcome+to+my+GitHub+Profile!">
-</p>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ---
