@@ -9,9 +9,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&gap=8&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Tailwind+CSS;Building+Modern+%26+High-Performance+Websites;Clean+UI+%7C+Responsive+Design;Welcome+to+my+GitHub+Profile!">
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%C2%A0%7C%C2%A0+JavaScript+%C2%A0%7C%C2%A0+Tailwind+CSS;Building+Modern+%26+High-Performance+Websites;Clean+UI+%C2%A0%7C%C2%A0+Responsive+Design;Welcome+to+my+GitHub+Profile!">
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,figma,wordpress,ubuntu,vscode&theme=dark&gap=16&size=48" />
 </p>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
@@ -33,9 +35,9 @@
 
 ## 🛠️ Tech Stack
 
-<!-- <p align="left">
+ <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,figma,wordpress,ubuntu,vscode&theme=dark" />
-</p> -->
+</p> 
 
 ---
 
