@@ -19,7 +19,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 🚀 I’m a **passionate Frontend Developer** focused on crafting  
 **fast, responsive, and visually appealing web applications**.
@@ -80,7 +80,7 @@
 
 ---
 
-## 🐍 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
