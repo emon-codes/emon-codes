@@ -63,7 +63,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics.
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=emon-codes&show_icons=true&theme=tokyonight&count_private=true" />
